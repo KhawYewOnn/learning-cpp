@@ -1,2 +1,3 @@
 # learning-cpp
-Documents down the C++ concepts that I am learning 
+
+The repo consts of codes that I wrote to better understand the concepts I am learning from *A Tour Of C++ (Second Edition)*
